@@ -16,5 +16,6 @@ class Simple {
         int n = 5;
         he o = new he();
         o.me(n);
+        System.out.println();
     }
 }
