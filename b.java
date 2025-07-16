@@ -1,6 +1,6 @@
 
 
-class v{
+class x{
     public void n(int m){
         for (int i=1;i<m;i++){
             for (int j=1;j<i;j++){
@@ -12,10 +12,10 @@ class v{
     }
 }
 
-public class a {
+public class b {
     public static void main(String[] args) {
         int m = 10;
-        v d = new v();
+        x d = new x();
         d.n(m);
     }
 }
